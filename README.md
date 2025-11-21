@@ -24,7 +24,7 @@ This is an educational blog for students at James Martin High School to learn ab
 
 
 # Sign In Sheet
-To record your name on the sign in sheet, sign up on github, learn how to use git and github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file.
+To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/stemx2025/stemx2025.github.io](https://github.com/stemx2025/stemx2025.github.io)
 
 ```
 Faculty Sponsors:
