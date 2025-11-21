@@ -4,6 +4,8 @@
 
 This is an educational blog for students at James Martin High School to learn about the software industry during the STEMX 2025 event. Instead of a slide deck presentation, this is an outline with the complete contents of our talk on one page.
 
+![Scan to visit site](qrcode_stemx2025.github.io.png)
+
 ## Table of Contents
 - [Sign In Sheet](#sign-in-sheet)
 - [What I do as an IT professional](#what-i-do-as-an-it-professional)
